@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import os, random, base64, time
 
 def powmod(m, e, n):  # 不知道自带的pow也能这样搞,心态大崩
